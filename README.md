@@ -1,1 +1,1 @@
-# Student_Marks_Prediction
+# Student Marks Prediction: A Case Study on Regression
